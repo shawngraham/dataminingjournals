@@ -1,5 +1,5 @@
-# Implementing Goldstone's DFR Topic Model Browser
-### Shawn Graham"
+# Implementing Goldstone's [DFR Topic Model Browser](http://agoldst.github.io/dfr-browser/)
+### Shawn Graham
 ### Sept 29 2014
 
 
